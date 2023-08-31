@@ -1,6 +1,6 @@
 {
   "name": "react-performance-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": "https://github.com/logesh-kumar/react-performance-monitor",
   "main": "dist/index.js",
